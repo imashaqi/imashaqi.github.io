@@ -1,0 +1,53 @@
+body {
+    background-color:rgba(0, 60, 255, 0.473);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+h1{
+font-size :300%;
+text-align:center;
+color: green;
+}
+.top1 {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    font-size: 21px;
+}
+h2{
+    color: green;
+    font-size :300%;
+    text-align:center;
+}
+
+p {  
+    font-family :courier;
+    color :green;
+    text-align:left;
+}
+p1{
+    background-color : rgb(29, 247, 0);
+    font-family :courier;
+    color :green;
+    text-align:left;}
+p2{   
+        font-family : courier;
+    color :green;
+    text-align:left;}
+p2:hover{
+    color: red;
+}
+p3{
+       
+            font-family : courier;
+        color : green;
+        text-align:left;
+    
+    }
+p4{
+   
+        font-family : courier;
+        color : green;
+        text-align:left;}
